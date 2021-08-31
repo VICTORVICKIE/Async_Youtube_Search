@@ -1,0 +1,12 @@
+# vscode
+
+.vscode
+
+# python
+
+__pycache__
+dist
+
+# testing
+
+test.py
